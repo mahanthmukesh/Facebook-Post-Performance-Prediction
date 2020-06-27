@@ -38,18 +38,25 @@ It is not necessary that if a particular post displayed on a user time line, the
 There is a serious confusion between the metric “Engaged users” and the metric: “Consumers”.  
 Before going into these, we need to define what a “story” is, an “engagement” of a post and what “consumption” is. 
 
-Story: A story is something that is displayed on users time line. That is if a user liked, commented, shared any post the friends of that user will be able to see that this user has liked or commented or shared this post. This is a story. 
+#### Story:
+A story is something that is displayed on users time line. That is if a user liked, commented, shared any post the friends of that user will be able to see that this user has liked or commented or shared this post. This is a story. 
 
-Engagement: When any user clicks anywhere on your post that creates a story. This is also counted for De-storying.   
+#### Engagement:
+When any user clicks anywhere on your post that creates a story. This is also counted for De-storying.   
 
-Consumptions: Whenever a user performs any clicks on your post, which creates a story along with some other clicks like, playing a video, viewing a photograph, clicking on the link provided comes under consumptions. 
+#### Consumptions:
+Whenever a user performs any clicks on your post, which creates a story along with some other clicks like, playing a video, viewing a photograph, clicking on the link provided comes under consumptions. 
 So, above two are explained here with an example. Say, I have a posted picture as a post, and a user named Bob has like my post. Here Bob has created a story. All of the bob’s friends can see that Bob has liked my post. Hence, Bob has engaged with my post. Another user say, Jack has just viewed the image that I posted by clicking on the image, here Jack did not create any story. None of Jack’s friends will know that he has clicked the picture on my post. Hence jack has just consumed my post post. 
 
-Consumers: These are the people who have consumed my post. 
-Engaged Users: The users who have been engaged with my post 
+#### Consumers:
+These are the people who have consumed my post. 
+
+#### Engaged Users: 
+The users who have been engaged with my post 
 Note that: Always the number of Engaged users will be more than the number of consumers. 
 
-Interactions: This is the sum of total Likes, Shares, Comments received for the post. 
+#### Interactions: 
+This is the sum of total Likes, Shares, Comments received for the post. 
 
 ## References
 Facebook metrics Data Set https://archive.ics.uci.edu/ml/datasets/Facebook+metrics#
